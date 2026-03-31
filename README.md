@@ -14,7 +14,7 @@ Reset button to start a new game
 Clean and responsive interface
 ## Installation
 Clone the repository:
-git clone https://github.com/yourusername/tic-tac-toe.git
+git clone https://github.com/youssouoph2008/tic-tac-toe.git
 Open index.html or game.html in your browser.
 ## How to Play
 Open the game in your browser.
